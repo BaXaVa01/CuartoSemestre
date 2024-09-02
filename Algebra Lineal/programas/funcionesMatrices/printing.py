@@ -21,4 +21,5 @@ def printMatrix(matrix: list):
     matrix2 = [[Fraction(element) for element in row] for row in matrix]
 
     print(tabulate(matrix2, tablefmt="github"))
+    
     print("\n")    
