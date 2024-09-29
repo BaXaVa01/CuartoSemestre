@@ -1,0 +1,26 @@
+9.2,1,0,1000,(untitled)
+"POM for Windows 5.2 Build 0.121 Taylor edition 12"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+0,False,0,0,0,0,0,0
+4,5
+""
+"a"
+"b"
+"c"
+" "
+"RHS"
+"Maximize"
+"limitacion x3"
+"Fermentacion"
+"Maduracion"
+"Llenado"
+5
+Maximize, 0, 50, 20, 25, 0, 0,
+limitacion x3, 0, 0, 0, 1, 1, 20,
+Fermentacion, 0, 9, 3, 5, 1, 500,
+Maduracion, 0, 5, 4, 0, 1, 350,
+Llenado, 0, 3, 0, 3, 1, 150,
+-1, -1
+done
+""
